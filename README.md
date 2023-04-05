@@ -1,5 +1,5 @@
-﻿# Seminario-de-Python-Entrega-2
+# Seminario-de-Python-Entrega-2
 
-﻿# Franco Giovanni Cirielli
+# Franco Giovanni Cirielli
 
 ## Numero de legajo : 19632/6
